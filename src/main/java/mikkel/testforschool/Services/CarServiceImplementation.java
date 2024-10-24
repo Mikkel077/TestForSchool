@@ -20,5 +20,6 @@ public class CarServiceImplementation {
 
     public List<Car> getAllCars() {
         return carService.findAll();
+
     }
 }
